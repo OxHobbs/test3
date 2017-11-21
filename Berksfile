@@ -3,3 +3,4 @@ source 'https://csschefserver3.southcentralus.cloudapp.azure.com/organizations/d
 source 'https://supermarket.chef.io'
 
 metadata
+cookbook 'test3', '= 0.1.5', path: '.'
